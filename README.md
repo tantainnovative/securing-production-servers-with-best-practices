@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue.svg)](https://www.linkedin.com/company/tantainnovative)
 
 </div>
----
 
 Created by [@tantainnovative](https://twitter.com/tantainnovative) and contributors
 
