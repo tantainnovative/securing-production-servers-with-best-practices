@@ -1,15 +1,7 @@
 # The Complete Guide to Linux Hardening: Securing Production Servers with Best Practices
-<div style="display: flex; gap: 20px">
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tantainnovative/securing-production-servers-with-best-practices/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tantainnovative/securing-production-servers-with-best-practices/pulls) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username.svg?style=social&label=Follow)](https://twitter.com/tantainnovative) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue.svg)](https://www.linkedin.com/company/tantainnovative)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username.svg?style=social&label=Follow)](https://twitter.com/tantainnovative)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue.svg)](https://www.linkedin.com/company/tantainnovative)
-
-</div>
 
 Created by [@tantainnovative](https://twitter.com/tantainnovative) and contributors
 
